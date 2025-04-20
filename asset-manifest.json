@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zenithindustries/static/css/main.c7ea5035.css",
-    "main.js": "/zenithindustries/static/js/main.61e074a5.js",
+    "main.css": "/zenithindustries/static/css/main.6ce1a593.css",
+    "main.js": "/zenithindustries/static/js/main.8e84015e.js",
     "static/media/products-img5.jpg": "/zenithindustries/static/media/products-img5.0d4d7fc3d41cdf2f6372.jpg",
     "static/media/factory-bg.jpg": "/zenithindustries/static/media/factory-bg.0aa16a1a562dc0eb14b9.jpg",
     "static/media/1.jpg": "/zenithindustries/static/media/1.c9018cad5daaddc61c0a.jpg",
@@ -27,11 +27,11 @@
     "index.html": "/zenithindustries/index.html",
     "static/media/c2.webp": "/zenithindustries/static/media/c2.227e8dcd58aebc0eb228.webp",
     "static/media/fras.webp": "/zenithindustries/static/media/fras.2adf737832ca903cc622.webp",
-    "main.c7ea5035.css.map": "/zenithindustries/static/css/main.c7ea5035.css.map",
-    "main.61e074a5.js.map": "/zenithindustries/static/js/main.61e074a5.js.map"
+    "main.6ce1a593.css.map": "/zenithindustries/static/css/main.6ce1a593.css.map",
+    "main.8e84015e.js.map": "/zenithindustries/static/js/main.8e84015e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7ea5035.css",
-    "static/js/main.61e074a5.js"
+    "static/css/main.6ce1a593.css",
+    "static/js/main.8e84015e.js"
   ]
 }
