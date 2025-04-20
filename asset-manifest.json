@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zenithindustries/static/css/main.cb29d5d9.css",
-    "main.js": "/zenithindustries/static/js/main.42e9c7d8.js",
+    "main.css": "/zenithindustries/static/css/main.a0458879.css",
+    "main.js": "/zenithindustries/static/js/main.5a166154.js",
     "static/media/products-img5.jpg": "/zenithindustries/static/media/products-img5.0d4d7fc3d41cdf2f6372.jpg",
     "static/media/factory-bg.jpg": "/zenithindustries/static/media/factory-bg.0aa16a1a562dc0eb14b9.jpg",
     "static/media/1.jpg": "/zenithindustries/static/media/1.c9018cad5daaddc61c0a.jpg",
@@ -9,7 +9,6 @@
     "static/media/nr-sbr-sheeting.png": "/zenithindustries/static/media/nr-sbr-sheeting.a60112be697c4899cd89.png",
     "static/media/2.jpg": "/zenithindustries/static/media/2.cfc05cfa1d335a0492bb.jpg",
     "static/media/bg-home-panel.jpg": "/zenithindustries/static/media/bg-home-panel.6543ac85feca2ba8ed4a.jpg",
-    "static/media/hero-bg.jpg": "/zenithindustries/static/media/hero-bg.6543ac85feca2ba8ed4a.jpg",
     "static/media/3.jpg": "/zenithindustries/static/media/3.c3b116e3a3c70e8bfed9.jpg",
     "static/media/products-img2.jpg": "/zenithindustries/static/media/products-img2.f4d08d7546f5b50ba59b.jpg",
     "static/media/products-img1.jpg": "/zenithindustries/static/media/products-img1.5b9e27214ab408643699.jpg",
@@ -29,11 +28,11 @@
     "index.html": "/zenithindustries/index.html",
     "static/media/c2.webp": "/zenithindustries/static/media/c2.227e8dcd58aebc0eb228.webp",
     "static/media/fras.webp": "/zenithindustries/static/media/fras.2adf737832ca903cc622.webp",
-    "main.cb29d5d9.css.map": "/zenithindustries/static/css/main.cb29d5d9.css.map",
-    "main.42e9c7d8.js.map": "/zenithindustries/static/js/main.42e9c7d8.js.map"
+    "main.a0458879.css.map": "/zenithindustries/static/css/main.a0458879.css.map",
+    "main.5a166154.js.map": "/zenithindustries/static/js/main.5a166154.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb29d5d9.css",
-    "static/js/main.42e9c7d8.js"
+    "static/css/main.a0458879.css",
+    "static/js/main.5a166154.js"
   ]
 }
